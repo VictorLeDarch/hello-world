@@ -1,2 +1,3 @@
 # hello-world
-My learning repository.
+
+My name's Victor and that's my learning repository. 
